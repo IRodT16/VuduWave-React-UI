@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "place": 1,
+    "group": "Multi",
+    "boat": "Taipan",
+    "helm": "Bill Blalock",
+    "class": "TAI4.9",
+    "sail": 279,
+    "uspn": 69.5,
+    "elapsed": "36:04",
+    "corrected": "0:51:54",
+    "bce": "0:00:00",
+    "bcr": 69.5
+  },
+  {
+    "id": 2,
+    "place": 2,
+    "group": "Multi",
+    "boat": "Nacra",
+    "helm": "John Chamberlin",
+    "class": "N5.8",
+    "sail": 6,
+    "uspn": 66.6,
+    "elapsed": "35:56",
+    "corrected": "0:53:57",
+    "bce": "0:01:22",
+    "bcr": 69.24
+  },
+  {
+    "id": 3,
+    "place": 3,
+    "group": "Multi",
+    "boat": "Taipan",
+    "helm": "Onix Jones",
+    "class": "TAI4.9",
+    "sail": 279,
+    "uspn": 69.5,
+    "elapsed": "36:04",
+    "corrected": "0:51:54",
+    "bce": "0:00:00",
+    "bcr": 69.5
+  },
+  {
+    "id": 4,
+    "place": 4,
+    "group": "Multi",
+    "boat": "Nacra",
+    "helm": "Billy Bones",
+    "class": "N5.8",
+    "sail": 6,
+    "uspn": 66.6,
+    "elapsed": "35:56",
+    "corrected": "0:53:57",
+    "bce": "0:01:22",
+    "bcr": 69.24
+  }
+]

@@ -1,0 +1,108 @@
+.menu {
+  display: flex;
+  justify-content: space-between;
+  padding: 1.2rem;
+  margin: 1rem;
+  background-color: #f8f9fa;
+  border-radius: 3px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  align-items: center;
+  text-align: center;
+}
+
+.btn,
+.btn:link,
+.btn:visited {
+  display: flex;
+  background-color: #4dabf7;
+  margin-left: 2.4rem;
+  border: none;
+  color: #e7f5ff;
+  font-size: 1.6rem;
+  padding: 0.4rem;
+  border-radius: 0.4rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.087);
+  max-width: 14rem;
+  padding: 1.6rem;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 3.2rem;
+}
+
+.btn:hover,
+.btn:active {
+  background-color: #1864ab;
+  cursor: pointer;
+}
+
+.inputbox {
+  border: 1px solid #ced4da;
+  font-size: 1.6rem;
+  height: 3.6rem;
+}
+
+.btndiv {
+  display: flex;
+  align-items: center;
+}
+
+.eventName {
+  padding: 0;
+  font-weight: 500;
+  font-style: italic;
+  letter-spacing: 0.6px;
+}
+
+.formitems {
+  display: flex;
+  align-items: center;
+}
+
+.items {
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+
+  width: 32rem;
+}
+
+.entryBox {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 32rem;
+  font-size: 1.6rem;
+}
+
+@media (max-width: 80em) {
+  .btn {
+    font-size: 1.4rem;
+  }
+}
+
+@media (max-width: 66em) {
+  .menu {
+    display: flex;
+    flex-direction: column;
+  }
+  .formitems {
+    margin-bottom: 1.6rem;
+    max-width: 80rem;
+  }
+  .btndiv {
+    display: flex;
+    justify-content: space-evenly;
+    max-width: 72rem;
+  }
+}
+
+@media (max-width: 50em) {
+  .formitems {
+    display: flex;
+    flex-direction: column;
+  }
+  .entryBox {
+    margin-bottom: 2.4rem;
+  }
+}

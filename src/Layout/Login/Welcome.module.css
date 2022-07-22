@@ -1,0 +1,26 @@
+.welcome {
+  margin-top: 0;
+  font-size: 2.4rem;
+  background-color: #212529;
+  padding: 1rem;
+  line-height: 0.9;
+  color: #f1f3f5;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* margin-bottom: 3.2rem; */
+}
+
+.logo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 6.4rem;
+  width: 6.4rem;
+  padding: 0;
+}
+
+h1 :nth-child(2) {
+  font-style: italic;
+}

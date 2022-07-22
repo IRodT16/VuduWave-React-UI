@@ -1,0 +1,93 @@
+.dash {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  /* border-right: 2px solid; */
+  background-color: #212529;
+  color: #f1f3f5;
+  /* height: 100vh; */
+  padding: 1.2rem;
+  padding-bottom: 4.8rem;
+
+  /* background-image: linear-gradient(rgba(0, 0, 0, 0.856), rgba(8, 8, 8, 0.87)),
+    url('../../img/lightning-sail-1.png');
+  background-size: cover; */
+}
+
+.sub {
+  margin-top: 3.2rem;
+}
+
+.btn,
+.btn:link,
+.btn:visited {
+  background-color: #212529;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+
+  border: none;
+  color: #adb5bd;
+  font-size: 1.6rem;
+  padding: 0.4rem;
+  border-radius: 0.4rem;
+  /* box-shadow: 0 2px 8px rgba(0, 0, 0, 0.087); */
+  width: 16rem;
+  height: 3.2rem;
+  margin-top: 4.8rem;
+  margin-right: 1rem;
+  vertical-align: middle;
+  justify-content: space-between;
+}
+
+.btn:hover,
+.btn:active {
+  /* background-color: #212529; */
+  color: #4dabf7;
+  cursor: pointer;
+}
+.btn:hover * {
+  color: #4dabf7;
+}
+
+@media (max-width: 80em) {
+  .dash {
+    max-height: 16rem;
+    display: flex;
+    flex-direction: row;
+    padding: 0;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+  .btnsection {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .btn {
+    display: flex;
+    justify-content: space-around;
+    margin: 0;
+  }
+}
+
+@media (max-width: 50em) {
+  .dash {
+    flex-direction: column;
+  }
+  .btnsection {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 1.6rem;
+  }
+}
+
+@media (max-width: 32em) {
+  /* .dash {
+    width: 36rem;
+  } */
+
+  .btn {
+    width: 12rem;
+    font-size: 1.2rem;
+  }
+}

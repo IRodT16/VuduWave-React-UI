@@ -1,0 +1,87 @@
+.display {
+  display: flex;
+  flex-direction: column;
+  background-color: #dee2e6;
+  /* height: 100vh; */
+  font-size: 1.4rem;
+}
+
+.entry {
+  /* display: grid;
+  grid-template-columns: 2fr 3fr; */
+  display: flex;
+  flex-direction: column;
+  /* justify-content: space-between; */
+  align-items: center;
+}
+
+.btnDivs {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 96rem;
+
+  margin: 1.6rem;
+}
+
+.btn,
+.btn:link,
+.btn:visited {
+  margin-right: 2.4rem;
+  margin-left: 2.4rem;
+  background-color: #212529;
+  background-color: #4dabf7;
+  background-color: #1c7ed6;
+  background-color: #868e96;
+  display: flex;
+  /* padding: 0.8rem; */
+  padding: 1.2rem;
+
+  border: none;
+  color: #adb5bd;
+  color: #e7f5ff;
+  font-size: 1.6rem;
+
+  border-radius: 0.4rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.087);
+  /* width: 14rem; */
+  height: 4rem;
+
+  align-items: center;
+  vertical-align: middle;
+  justify-content: center;
+}
+
+.btn:hover,
+.btn:active {
+  background-color: #1864ab;
+  cursor: pointer;
+}
+
+ion-icon {
+  margin: 0rem;
+  padding: 0;
+  padding-left: 0.4rem;
+  vertical-align: middle;
+  text-align: center;
+}
+
+@media (max-width: 66em) {
+  .btnDivs {
+    display: flex;
+    justify-content: space-evenly;
+    max-width: 56rem;
+    margin: 1.6rem;
+  }
+}
+
+@media (max-width: 32em) {
+  .btn {
+    font-size: 1.2rem;
+    margin: 0;
+  }
+  .btnDivs {
+    margin: 1.2rem;
+    max-width: 36rem;
+  }
+}

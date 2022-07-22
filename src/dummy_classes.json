@@ -1,0 +1,359 @@
+[
+  {
+    "dpn": 103.6,
+    "group": "Plani",
+    "boat_name": "American 16",
+    "boat_class": "AM-16"
+  },
+  {
+    "dpn": 86.9,
+    "group": "Plani",
+    "boat_name": "Buccaneer",
+    "boat_class": "BCN"
+  },
+  {
+    "dpn": 89.6,
+    "group": "Displ",
+    "boat_name": "Beneteau 235",
+    "boat_class": "BNT235"
+  },
+  {
+    "dpn": 92,
+    "group": "Plani",
+    "boat_name": "Capri 16",
+    "boat_class": "CAP16"
+  },
+  {
+    "dpn": 90.8,
+    "group": "Displ",
+    "boat_name": "Capri 22",
+    "boat_class": "CAP22"
+  },
+  {
+    "dpn": 91.8,
+    "group": "Displ",
+    "boat_name": "Capri 22 No Spinnaker",
+    "boat_class": "CAP22NS"
+  },
+  {
+    "dpn": 99.4,
+    "group": "Displ",
+    "boat_name": "Catalina Capri 14.2",
+    "boat_class": "CAT142"
+  },
+  {
+    "dpn": 94.7,
+    "group": "Displ",
+    "boat_name": "Catalina 22",
+    "boat_class": "CAT22"
+  },
+  {
+    "dpn": 96.3,
+    "group": "Displ",
+    "boat_name": "Catalina 22 No Spinnaker",
+    "boat_class": "CAT22NS"
+  },
+  {
+    "dpn": 93.9,
+    "group": "Displ",
+    "boat_name": "Catalina 25",
+    "boat_class": "CAT25"
+  },
+  {
+    "dpn": 94.9,
+    "group": "Displ",
+    "boat_name": "Catalina 25 No Spinnaker",
+    "boat_class": "CAT25NS"
+  },
+  {
+    "dpn": 87.4,
+    "group": "Displ",
+    "boat_name": "Catalina 27",
+    "boat_class": "CAT27"
+  },
+  {
+    "dpn": 88.3,
+    "group": "Displ",
+    "boat_name": "Catalina 27 No Spinnaker",
+    "boat_class": "CAT27NS"
+  },
+  {
+    "dpn": 92.6,
+    "group": "Displ",
+    "boat_name": "Catalina 28",
+    "boat_class": "CAT28"
+  },
+  { "dpn": 98.6, "group": "Displ", "boat_name": "DS2", "boat_class": "DS2" },
+  {
+    "dpn": 69.4,
+    "group": "Multi",
+    "boat_name": "F-27F",
+    "boat_class": "F-27F"
+  },
+  { "dpn": 65, "group": "Multi", "boat_name": "F-28R", "boat_class": "F-28R" },
+  {
+    "dpn": 61.9,
+    "group": "Multi",
+    "boat_name": "F-31R",
+    "boat_class": "F-31R"
+  },
+  { "dpn": 63, "group": "Multi", "boat_name": "F16", "boat_class": "F16" },
+  {
+    "dpn": 95.4,
+    "group": "Plani",
+    "boat_name": "Flying Tern",
+    "boat_class": "F5"
+  },
+  {
+    "dpn": 89.6,
+    "group": "Plani",
+    "boat_name": "Flying Scot",
+    "boat_class": "FSCT"
+  },
+  {
+    "dpn": 90.7,
+    "group": "Plani",
+    "boat_name": "Fusion 15",
+    "boat_class": "FUS15"
+  },
+  {
+    "dpn": 71.4,
+    "group": "Multi",
+    "boat_name": "Hobie 18",
+    "boat_class": "H18"
+  },
+  { "dpn": 65, "group": "Multi", "boat_name": "Hobie 20", "boat_class": "H20" },
+  {
+    "dpn": 64.6,
+    "group": "Multi",
+    "boat_name": "Hobie 21S",
+    "boat_class": "H21S"
+  },
+  {
+    "dpn": 83.3,
+    "group": "Multi",
+    "boat_name": "Hobie Getaway",
+    "boat_class": "HGET"
+  },
+  {
+    "dpn": 85.8,
+    "group": "Plani",
+    "boat_name": "Holder 20",
+    "boat_class": "HLR20"
+  },
+  {
+    "dpn": 94.2,
+    "group": "Displ",
+    "boat_name": "Hunter 235",
+    "boat_class": "HTR235"
+  },
+  {
+    "dpn": 92.4,
+    "group": "Displ",
+    "boat_name": "Hunter 26",
+    "boat_class": "HTR26"
+  },
+  {
+    "dpn": 92.4,
+    "group": "Displ",
+    "boat_name": "Hunter 265",
+    "boat_class": "HTR265"
+  },
+  {
+    "dpn": 92.1,
+    "group": "Multi",
+    "boat_name": "Hobie Wave",
+    "boat_class": "HWAV"
+  },
+  {
+    "dpn": 97.5,
+    "group": "Displ",
+    "boat_name": "Irwin 21",
+    "boat_class": "IRWIN21"
+  },
+  { "dpn": 80.8, "group": "Displ", "boat_name": "J/24", "boat_class": "J-24" },
+  { "dpn": 91.1, "group": "Plani", "boat_name": "Laser", "boat_class": "LASE" },
+  {
+    "dpn": 92.8,
+    "group": "Plani",
+    "boat_name": "Laser II",
+    "boat_class": "LASE2"
+  },
+  { "dpn": 87, "group": "Plani", "boat_name": "Lightning", "boat_class": "LI" },
+  {
+    "dpn": 102.1,
+    "group": "Displ",
+    "boat_name": "Mariner2+2",
+    "boat_class": "MARINER2+2"
+  },
+  {
+    "dpn": 87.8,
+    "group": "Plani",
+    "boat_name": "MC-Scow",
+    "boat_class": "MC-SC"
+  },
+  {
+    "dpn": 96,
+    "group": "Displ",
+    "boat_name": "MacGregor 26M",
+    "boat_class": "MCG26M"
+  },
+  {
+    "dpn": 94.7,
+    "group": "Plani",
+    "boat_name": "Mirage 5.5",
+    "boat_class": "MIR5.5"
+  },
+  {
+    "dpn": 96,
+    "group": "Plani",
+    "boat_name": "Mutineer",
+    "boat_class": "MUTR"
+  },
+  {
+    "dpn": 66.6,
+    "group": "Multi",
+    "boat_name": "Nacra 5.8",
+    "boat_class": "N5.8"
+  },
+  {
+    "dpn": 95.2,
+    "group": "Displ",
+    "boat_name": "ODay 240",
+    "boat_class": "ODY240"
+  },
+  {
+    "dpn": 98.2,
+    "group": "Displ",
+    "boat_name": "ODay 25",
+    "boat_class": "ODY25"
+  },
+  {
+    "dpn": 78,
+    "group": "Plani",
+    "boat_name": "Open 570",
+    "boat_class": "OPN570"
+  },
+  {
+    "dpn": 77.5,
+    "group": "Multi",
+    "boat_name": "Prindle 16",
+    "boat_class": "P16"
+  },
+  {
+    "dpn": 101.1,
+    "group": "Displ",
+    "boat_name": "Precision 165",
+    "boat_class": "PRS165"
+  },
+  {
+    "dpn": 101,
+    "group": "Displ",
+    "boat_name": "Precision 18",
+    "boat_class": "PRS18"
+  },
+  {
+    "dpn": 99,
+    "group": "Displ",
+    "boat_name": "Precision 21",
+    "boat_class": "PRS21"
+  },
+  {
+    "dpn": 96,
+    "group": "Displ",
+    "boat_name": "Precision 23",
+    "boat_class": "PRS23"
+  },
+  {
+    "dpn": 90.1,
+    "group": "Displ",
+    "boat_name": "Precision 27",
+    "boat_class": "PRS27"
+  },
+  {
+    "dpn": 91.2,
+    "group": "Displ",
+    "boat_name": "Precision 26",
+    "boat_class": "PSN26"
+  },
+  {
+    "dpn": 91.4,
+    "group": "Plani",
+    "boat_name": "Raider 16",
+    "boat_class": "RDR16"
+  },
+  {
+    "dpn": 90.9,
+    "group": "Displ",
+    "boat_name": "Ranger 23",
+    "boat_class": "RNG23"
+  },
+  {
+    "dpn": 87.3,
+    "group": "Plani",
+    "boat_name": "RS AERO 9",
+    "boat_class": "RS AERO9"
+  },
+  {
+    "dpn": 87.4,
+    "group": "Displ",
+    "boat_name": "S2 6.7",
+    "boat_class": "S2-6.7"
+  },
+  {
+    "dpn": 81,
+    "group": "Displ",
+    "boat_name": "S2 7.9",
+    "boat_class": "S2-7.9"
+  },
+  {
+    "dpn": 112.1,
+    "group": "Displ",
+    "boat_name": "Scorpion",
+    "boat_class": "SCOR"
+  },
+  {
+    "dpn": 94.7,
+    "group": "Displ",
+    "boat_name": "San Juan 21",
+    "boat_class": "SJ-21"
+  },
+  {
+    "dpn": 104.5,
+    "group": "Displ",
+    "boat_name": "Marshall 18",
+    "boat_class": "SNDR"
+  },
+  {
+    "dpn": 69.5,
+    "group": "Multi",
+    "boat_name": "TAI4.9",
+    "boat_class": "TAI4.9"
+  },
+  { "dpn": 83, "group": "Plani", "boat_name": "Thistle", "boat_class": "TH" },
+  {
+    "dpn": 93,
+    "group": "Multi",
+    "boat_name": "Tridarker",
+    "boat_class": "TRIDARKER"
+  },
+  {
+    "dpn": 79.9,
+    "group": "Plani",
+    "boat_name": "Ultimate 20",
+    "boat_class": "ULT20"
+  },
+  {
+    "dpn": 99,
+    "group": "Displ",
+    "boat_name": "Venture 25",
+    "boat_class": "VNT25"
+  },
+  {
+    "dpn": 81.4,
+    "group": "Multi",
+    "boat_name": "Windrider 17",
+    "boat_class": "WR17"
+  },
+  { "dpn": 100, "group": "Displ", "boat_name": "what the", "boat_class": "WTF" }
+]

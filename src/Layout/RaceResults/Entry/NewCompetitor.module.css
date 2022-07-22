@@ -1,0 +1,96 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.entries {
+  /* display: flex;
+  flex-direction: column; */
+
+  height: 32rem;
+  font-size: 1.4rem;
+
+  /* padding: 1rem; */
+  /* margin: 1rem 1rem 1rem 0; */
+  background-color: #f8f9fa;
+  border-radius: 3px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  width: 72rem;
+}
+
+.entry {
+  display: grid;
+  padding: 1rem;
+}
+
+.entryBox {
+  margin-bottom: 1.6rem;
+}
+
+.btn,
+.btn:link,
+.btn:visited {
+  background-color: #adb5bd;
+
+  border: none;
+  color: #f8f9fa;
+  font-size: 1.6rem;
+  padding: 0.4rem;
+  border-radius: 0.4rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.087);
+  width: 14rem;
+  height: 3.2rem;
+}
+
+.btn:hover,
+.btn:active {
+  background-color: #1864ab;
+  cursor: pointer;
+}
+
+ion-icon {
+  font-size: 24px;
+  vertical-align: middle;
+  padding-right: 0.4rem;
+}
+
+.icon_btn {
+  background-color: #f8f9fa;
+  border: none;
+}
+
+input {
+  padding: 0.4rem;
+}
+
+.inputs {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.inputRow {
+  display: flex;
+  flex-direction: column;
+  padding: 2.4rem;
+}
+
+.inputbox {
+  border: 1px solid #ced4da;
+  width: 100%;
+  margin-left: 0;
+  height: 4rem;
+}
+
+.classbtn {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.link {
+  color: #1864ab;
+  cursor: pointer;
+}
+
+@media (max-width: 32em) {
+}
